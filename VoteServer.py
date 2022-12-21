@@ -4,6 +4,8 @@ import socket
 from Voter import Voter
 from DoubleEnvelope import DoubleEnvelope
 from quiter import Quiter
+#Did it work?
+#I think it did
 
 class VoteServer:
     def __init__(self):
